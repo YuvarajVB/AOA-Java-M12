@@ -29,8 +29,8 @@ Your goal is to maximize total profit while completing the maximum number of job
 ## Program:
 ```
 Program to implement Reverse a String
-Developed by: Gnanendran N
-Register Number: 212223240037
+Developed by: YUVARAJ V
+Register Number: 212223230252
 ```
 ```java
 import java.util.*;
